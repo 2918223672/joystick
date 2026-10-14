@@ -1,0 +1,12 @@
+joystick\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+joystick\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+joystick\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+joystick\port.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+joystick\port.o: ../Core/Inc/FreeRTOSConfig.h
+joystick\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+joystick\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+joystick\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+joystick\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+joystick\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+joystick\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+joystick\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

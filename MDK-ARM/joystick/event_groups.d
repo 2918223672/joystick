@@ -1,0 +1,15 @@
+joystick\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+joystick\event_groups.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+joystick\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+joystick\event_groups.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+joystick\event_groups.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+joystick\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+joystick\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+joystick\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+joystick\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+joystick\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+joystick\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+joystick\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+joystick\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+joystick\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+joystick\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

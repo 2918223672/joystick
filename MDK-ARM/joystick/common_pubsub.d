@@ -1,0 +1,17 @@
+joystick\common_pubsub.o: ..\Common\common_pubsub.c
+joystick\common_pubsub.o: ..\Common\common_pubsub.h
+joystick\common_pubsub.o: ..\Common\common_node.h
+joystick\common_pubsub.o: ..\Common\common_types.h
+joystick\common_pubsub.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+joystick\common_pubsub.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+joystick\common_pubsub.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+joystick\common_pubsub.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+joystick\common_pubsub.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+joystick\common_pubsub.o: ../Core/Inc/FreeRTOSConfig.h
+joystick\common_pubsub.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+joystick\common_pubsub.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+joystick\common_pubsub.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+joystick\common_pubsub.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+joystick\common_pubsub.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+joystick\common_pubsub.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+joystick\common_pubsub.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

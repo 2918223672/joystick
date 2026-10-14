@@ -1,0 +1,15 @@
+joystick\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+joystick\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+joystick\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\string.h
+joystick\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+joystick\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+joystick\queue.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+joystick\queue.o: ../Core/Inc/FreeRTOSConfig.h
+joystick\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+joystick\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+joystick\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+joystick\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+joystick\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+joystick\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+joystick\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+joystick\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
